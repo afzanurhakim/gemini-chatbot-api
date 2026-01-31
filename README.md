@@ -36,7 +36,7 @@ This project is made with **HTML, CSS, JavaScript**, with this library:
 
 ## Project Output 
 <div align="center">
-  <img src="weatherchatbot.png" alt="Weather Chatbot UI" width="200" style="margin-bottom: 0px;">
+  <img src="weatherchatbot.PNG" alt="Weather Chatbot UI" width="200" style="margin-bottom: 0px;">
   <h1 style="margin-top: 0px;">Weather Chatbot</h1>
   <p><i>Your Personal Weather Forecast Chatbot</i></p>
 </div>
