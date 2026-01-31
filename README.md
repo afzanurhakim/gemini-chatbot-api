@@ -10,7 +10,7 @@ A fully working chatbot based on Gemini AI Model made entirely with Gemini Code 
 
 ## Tech Stack
 
-This project is made with **HTML, CSS, JavaScript**, with this library:
+This project is made with **HTML, CSS, and JavaScript** with these library:
 
 | No | Library | Function
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ This project is made with **HTML, CSS, JavaScript**, with this library:
 * **temperature**
 
 **System Instruction:**
-* **Casual & Concise Weather Chatbot**
+* **Casual & concise weather chatbot that ask for the user city**
 
 ## Project Output 
 <div align="center">
